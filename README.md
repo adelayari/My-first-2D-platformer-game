@@ -1,9 +1,10 @@
-# My First Game
+# My First 2D Platformer Game
+
 https://github.com/adelayari/My-first-2D-platformer-game/assets/69399646/e9d469fa-d00e-4a90-955b-347368220e96
 
 ## Description
 
-Welcome to "My First Game," a simple game created using C/C++ and the [raylib](https://www.raylib.com/) library. Dive into the world of game development and learn while having fun.
+Welcome to "My First 2D Platformer Game," a simple game created using C/C++ and the [raylib](https://www.raylib.com/) library. Dive into the world of game development and learn while having fun.
 
 ## How to Play
 
