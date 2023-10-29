@@ -1,7 +1,8 @@
 # My First Game
 
-
-[![Game Screenshot]([https://github.com/adelayari/My_first_cpp_game/assets/69399646/03d59420-879d-4dc4-b236-04d9c42097ba](https://github.com/adelayari/My-first-2D-platformer-game/assets/69399646/e9d469fa-d00e-4a90-955b-347368220e96)]
+[
+[![Game Screenshot]([https://github.com/adelayari/My_first_cpp_game/assets/69399646/03d59420-879d-4dc4-b236-04d9c42097ba](https://github.com/adelayari/My-first-2D-platformer-game/assets/69399646/e9d469fa-d00e-4a90-955b-347368220e96)]](https://github.com/adelayari/My-first-2D-platformer-game/assets/69399646/e9d469fa-d00e-4a90-955b-347368220e96
+)
 ## Description
 
 Welcome to "My First Game," a simple game created using C/C++ and the [raylib](https://www.raylib.com/) library. Dive into the world of game development and learn while having fun.
